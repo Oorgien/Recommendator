@@ -1,3 +1,13 @@
+.~lock.data.csv#
+archive/
+checkpoints/
+data.csv
+data_test.csv
+df.csv
+df_all_labels.csv
+reddit-dataset/
+runs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
